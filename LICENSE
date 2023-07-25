@@ -1,1 +1,55 @@
+# **CU-GIR FRAMEWORK LICENSE**
+
+## **Last Updated: July 14, 2023**
+
+THE CU-GIR FRAMEWORK IS PROVIDED UNDER THE TERMS OF THIS LICENSE (the “Agreement”). ANY USE, REPRODUCTION, OR DISTRIBUTION OF THE CU-GIR FRAMEWORK CONSTITUTES THE RECIPIENT’S ACCEPTANCE OF THIS AGREEMENT.
+
+### 1. Definitions
+
+  1.1. “Framework” means the CU-GIR Framework provided by Licensor as may be updated from time to time.
+
+  1.2. “Licensor” means Intel 471, Inc., the owner of the Framework. 
+
+  1.3. “Recipient” means any person or organization that uses, reproduces, or distributes the Framework.
+
+### 2. License
+
+  2.1. Grant. Subject to Recipient’s compliance with the terms of this Agreement, Licensor hereby grants to Recipient a fully paid-up, royalty-free, perpetual, irrevocable, worldwide, non- exclusive, non-transferrable copyright license to reproduce, prepare derivative works of, publicly display, publicly perform, and distribute the Framework in source code or object code.
+
+  2.2. Use Restrictions. Notwithstanding the foregoing, Recipient shall not, and shall not permit others to 
+      (a) remove, modify, or obscure any proprietary notices from the Framework; or
+      (b) use the Framework to develop products or services (including but not limited to taxonomies, frameworks, or data standards) that compete with Licensor’s products or services.
+
+  2.3. Reservation of Rights. Licensor reserves all rights not expressly granted to Recipient in this Agreement. Except for the limited rights and licenses expressly granted under this Agreement, nothing in this Agreement grants to Recipient or any third party, by implication, waiver, estoppel, or otherwise, any intellectual property rights or other right, title, or interest. No other use of the Framework by Recipient is provided under this Agreement.
+
+  2.4. No Trademark License. This Agreement does not grant permission to use the trade names, trademarks, services marks, or product names of the Licensor without the prior written consent of Licensor.
+
+### 3. Warranty; Disclaimer.
+
+RECIPIENT HEREBY ACKNOWLEDGES AND AGREES THAT THE FRAMEWORK PROVIDED “AS IS” AND WITHOUT WARRANTY OF ANY KIND. TO THE MAXIMUM EXTENT PERMITTED UNDER APPLICABLE LAW, AND NOTWITHSTANDING ANYTHING IN THIS AGREEMENT TO THE CONTRARY, ALL WARRANTIES, CONDITIONS AND REPRESENTATIONS, WHETHER EXPRESS OR IMPLIED, VERBAL OR WRITTEN, STATUTORY OR OTHERWISE, AND WHETHER ARISING UNDER THIS AGREEMENT OR OTHERWISE, ARE HEREBY EXCLUDED, INCLUDING, WITHOUT LIMITATION, THE IMPLIED WARRANTIES OF MERCHANTABILITY, NON-INFRINGEMENT, AND FITNESS FOR A PARTICULAR PURPOSE, AND ANY IMPLIED WARRANTIES ARISING FROM USAGE OF TRADE, COURSE OF DEALING, OR COURSE OF PERFORMANCE.
+
+### 4. Limitation of Liability
+
+UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING, IN NO EVENT SHALL LICENSOR BE LIABLE FOR ANY DAMAGES, INCLUDING ANY INCIDENTAL, CONSEQUENTIAL, PUNITIVE OR SPECIAL DAMAGES, DAMAGES FOR LOST PROFITS, LOST DATA OR LOST BUSINESS, OR ANY OTHER INDIRECT DAMAGES, ARISING AS A RESULT OF THIS LICENSE OR OUT OF THE USE OR INABILITY TO USE THE FRAMEWORK (INCLUDING BUT NOT LMMITED TO DAMAGES FOR LOSS OF GOODWILL, WORK STOPPAGE, COMPUTER FAILURE OR MALFUNCTION, OR ANY AND ALL COMMERCIAL DAMAGES OR LOSSES) EVEN IF LICENSOR HAS BEEN ADVISED AS TO THE POSSIBILITY OF SUCH DAMAGES.
+
+### 5. General Terms
+
+  5.1. Binding Authority. By accepting and using the Framework, Recipient affirms its authority to bind the Recipient to all terms and conditions of this Agreement and that that Recipient hereby agrees to all terms and conditions herein.
+
+  5.2. Governing Law; Jurisdiction. This Agreement will be governed by the laws of the State of Delaware without regard to conflicts of laws principles. Each party hereby submits itself for the sole purpose of this Agreement and any controversy arising hereunder to the exclusive jurisdiction of the federal or state courts located in New Castle County, Delaware, and any courts of appeal therefrom, and waives any objection (on the grounds of lack of jurisdiction, or forum not convenient or otherwise) to the exercise of such jurisdiction over it by any such courts.
+
+  5.3. Entire Agreement. This Agreement constitutes the entire agreement between the Licensor and Recipient with respect to the subject matter hereof and supersedes and cancels all previous written and oral agreements, communications, and other understandings related to the subject matter hereof.
+
+  5.4. Headings. The headings of the Sections in this Agreement are for the purposes of convenient reference only and are not intended to be part of this Agreement, or to limit or affect the meaning or interpretation of any of the terms hereof.
+
+  5.5. Waiver. No waiver will be binding unless executed in writing by the party making the waiver. No waiver of any of the provisions of this Agreement will be deemed or will constitute a waiver of any other provision, whether or not similar, nor will any waiver constitute a continuing waiver.
+
+  5.6. Severability. Should any clause, portion or paragraph of this Agreement be unenforceable or invalid for any reason, such unenforceability or invalidity will not affect the enforceability or validity of the remainder of this Agreement, and any court having jurisdiction is specifically authorized and encouraged by Recipient and Licensor to hold inviolate all portions of this Agreement that are valid and enforceable without consideration of any invalid or unenforceable portions hereof.
+
+  5.7. No Third-Party Beneficiaries. This Agreement shall not be construed to create any legal, equitable or beneficial interest in any third party or to vest in any third party any interest with respect to the enforcement of this Agreement.
+
+  5.8. Assignment. Recipient shall not assign or delegate any of its rights or obligations under this Agreement without the prior written consent of Recipient. Licensor has the right to assign this Agreement without notice or consent of Recipient. Subject to the foregoing, this Agreement shall inure to the benefit of the parties’ permitted successors and assigns.
+
+  5.9. Relationship of the Parties. Nothing herein shall be deemed or construed to create a joint venture, partnership, fiduciary, or agency relationship between the parties for any purposes. Neither party will have the right or authority to assume, create, or incur any third-party liability or obligation of any kind, express or implied, against or in the name of or on behalf of the other party except as expressly set forth in this Agreement.
+
 
