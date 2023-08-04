@@ -64,7 +64,7 @@ The STIX namespace (see: https://docs.oasis-open.org/cti/stix/v2.1/csprd01/stix-
 
 ## New to Cyber Threat Intelligence Frameworks?
 
-If you're new to CTI or new to utilizing frameworks to aid in combatting threats, the following articles may be of interest:
+If you're new to CTI or new to utilizing frameworks to aid in combatting threats, sign up to attend an Intelligence Planning Workshop hosted by Intel 471 (https://go.intel471.com/intelligence-planning-workshop). The following articles may also be of interest:
 
 - https://intel471.com/blog/introducing-intel-471s-cybercrime-underground-general-intelligence-requirements-cu-gir-a-common-framework-to-address-a-common-challenge
 
