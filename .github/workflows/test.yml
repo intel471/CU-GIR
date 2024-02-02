@@ -1,0 +1,23 @@
+name: Run sanity check
+
+on:
+  push
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+    - name: Set up Python 3.11
+      uses: actions/setup-python@v5
+      with:
+        python-version: 3.11
+    - name: Set PYTHONPATH
+      run: echo "PYTHONPATH=/home/runner/work/CU-GIR/CU-GIR" >> $GITHUB_ENV
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install stix2==3.0.1 pytest
+    - name: Test with pytest
+      run: |
+        pytest
